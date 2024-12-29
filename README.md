@@ -14,7 +14,7 @@ RFID card adalah kartu yang pada permukannya ditanam label atau tag RFID. Fungsi
 ## Sketch Code Program:
 
 ```cpp
-/// This project was made by Mehmet Efe Peker.
+/// This project was made by Andika Pratama AP.
 #include <RFID.h>
 #include <SPI.h>
 #include <Servo.h>
