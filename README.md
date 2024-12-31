@@ -11,7 +11,7 @@ RFID card adalah kartu yang pada permukannya ditanam label atau tag RFID. Fungsi
 
 ![Circuit-Schematic](img/dadec5ac-b6a3-49d4-ac76-f013093b2cc9.png)
 
-## Sketch Code Program:
+##  Code Program:
 
 ```cpp
 /// This project was made by Andika Pratama AP.
